@@ -42,3 +42,5 @@ def reset():
         main()
     else: 
         raise SystemExit
+if __name__ == "__main__":
+    main()
